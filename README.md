@@ -2,7 +2,7 @@
 
 This folder is part of my computer science and engineering learning portfolio.
 
-It contains solutions to algorithmic and programming contest problems, mostly from the USACO (USA Computing Olympiad) platform I learned at Alphastar Academy. The projects focus on efficient problem-solving, data structures, and algorithm design using Java.
+It contains solutions to algorithmic and programming contest problems, mostly from past USACO (USA Computing Olympiad) exams I learned at Alphastar Academy. The projects focus on efficient problem-solving, data structures, and algorithm design using Java.
 
 ## Contents
 - Multiple `.java` files each implementing a unique problem with clear logic and optimized performance.  
