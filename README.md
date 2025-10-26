@@ -2,7 +2,7 @@
 
 This folder is part of my computer science and engineering learning portfolio.
 
-It contains a set of Java projects designed to explore game design, object-oriented programming, and algorithms through practical development.
+It contains a set of Java projects designed to explore game design, object-oriented programming, and algorithms through practical development. I built these projects to have a better understanding of Java features and improve my coding skills.
 
 ## Projects Included
 - Different Java games implementing core programming concepts (classes, inheritance, event-handling).  
