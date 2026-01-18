@@ -1,0 +1,33 @@
+import java.util.*;
+
+public class Main{
+    public static void main(String[] args){
+        
+        Scanner sc = new Scanner(System.in);
+        
+        int stones [] = new int [3];
+        
+        for(int i = 0; i < 3; i++){
+            stones[i] = sc.nextInt();
+        }
+        
+        Arrays.sort(stones); //Puts numbers in order
+        
+        int gap1 = stones[1] - stones[0];
+        int gap2 = stones[2] - stones[1];
+        
+        if (gap1 == 1 && gap2 == 1){
+            System.out.println(0);
+        }
+        
+        else if (gap1 == 2 || gap2 == 2){
+            System.out.println(1);
+        }
+        
+        else{
+            System.out.println(2);
+        }
+        
+        System.out.println(Math.max(gap1, gap2) - 1);
+    }
+}
